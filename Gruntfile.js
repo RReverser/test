@@ -1,7 +1,7 @@
-module.exports = function (grunt) {
-	require('load-grunt-config')(grunt, {
-		data: {
-			pkgName: 'jbinary'
-		}
-	});
-};
+module.exports = function (grunt) {!!!
+	require('load-grunt-config')(grunt, {!!!
+		data: {!!!
+			pkgName: 'jbinary'!!!
+		}!!!
+	});!!!
+};!!!
